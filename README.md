@@ -1,4 +1,4 @@
-#include<iostream>
+```#include<iostream>
 #include<queue>
 using namespace std;
 typedef struct node//定义一个node结构
@@ -52,7 +52,7 @@ int main()
   cout<<"按层遍历的结果如下："<<endl;
   leveltraverse(q);
   cout<<endl;
-}
+}```
 
 
                                                                              1,1          顶端
